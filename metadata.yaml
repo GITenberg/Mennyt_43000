@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Santeri_Alkio
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43000#Mennyt
 gutenberg_issued: '2013-06-21'
 gutenberg_type: Text
 identifiers:
