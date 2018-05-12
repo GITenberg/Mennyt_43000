@@ -1,0 +1,35 @@
+_repo: Mennyt_43000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Heikkilainen, Iiska
+    - Filander, Santeri
+    - Heikkiläinen, Iiska
+    - Filander, Aleksander
+    - Paukkunen, Jussi
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2013-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43000'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Mennyt
+url: http://www.gutenberg.org/ebooks/43000
